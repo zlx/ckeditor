@@ -20,4 +20,5 @@ Gem::Specification.new do |s|
   
   s.add_dependency("mime-types")
   s.add_dependency("orm_adapter")
+  s.add_dependenct("scss")
 end
